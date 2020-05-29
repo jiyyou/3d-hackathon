@@ -10,7 +10,7 @@ class Main extends React.Component {
 			<section className="main">
 				<SideBar />
 				<div className="maincontent">
-
+					<h2>MAINTEST</h2>
 				</div>
 			</section>
 		)
