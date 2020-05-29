@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3d-hackathon/static/css/main.5f361e03.chunk.css",
+    "main.js": "/3d-hackathon/static/js/main.14152947.chunk.js",
+    "main.js.map": "/3d-hackathon/static/js/main.14152947.chunk.js.map",
+    "runtime-main.js": "/3d-hackathon/static/js/runtime-main.d36d8966.js",
+    "runtime-main.js.map": "/3d-hackathon/static/js/runtime-main.d36d8966.js.map",
+    "static/js/2.828e0e51.chunk.js": "/3d-hackathon/static/js/2.828e0e51.chunk.js",
+    "static/js/2.828e0e51.chunk.js.map": "/3d-hackathon/static/js/2.828e0e51.chunk.js.map",
+    "index.html": "/3d-hackathon/index.html",
+    "precache-manifest.00d0124b64be2e4a1f7730821a8bfdbf.js": "/3d-hackathon/precache-manifest.00d0124b64be2e4a1f7730821a8bfdbf.js",
+    "service-worker.js": "/3d-hackathon/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/3d-hackathon/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.828e0e51.chunk.js.LICENSE.txt": "/3d-hackathon/static/js/2.828e0e51.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/3d-hackathon/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d36d8966.js",
+    "static/js/2.828e0e51.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.14152947.chunk.js"
+  ]
+}
