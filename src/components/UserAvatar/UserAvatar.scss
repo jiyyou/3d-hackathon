@@ -2,11 +2,17 @@
 @import '../../partials/mixins';
 
 .avatar {
+	margin-top: 24px;
+	margin-left: auto;
 	display: flex;
 	&__pic {
+		margin-left: auto;
 
+		width: 40px;
+		height: 40px;
 	}
 	&__name {
-
+		margin-left: 16px;
+		margin-right: 16px;
 	}
 }

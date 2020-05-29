@@ -3,5 +3,47 @@
 
 .main {
 	display: flex;
+	height: 100%;
 }
 
+.maincontent {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	padding: 0 32px;
+	&__overview {
+		margin-top: 16px;
+	}
+	&__subtitle {
+		margin-bottom: 24px;
+	}
+	&__scardlist {
+		display: flex;
+		margin-bottom: 88px;
+	}
+	&__scardtitle {
+
+	}
+	&__scard {
+		padding: 16px;
+		width: 272px;
+		height: 230px;
+		border-radius: 10px;
+		box-shadow: 0 24px 32px 0 rgba(50, 50, 71, 0.08), 0 16px 16px 0 rgba(50, 50, 71, 0.08);
+		margin-right: 20px;
+	}
+	&__bcardlist {
+		display: flex;
+	}
+	&__bcardcont {
+		margin-right: 36px;
+	}
+	&__bcard {
+		width: 556px;
+		height: 334px;
+		margin-top: 25px;
+	  border-radius: 10px;
+  	box-shadow: 0 24px 32px 0 rgba(50, 50, 71, 0.08), 0 16px 16px 0 rgba(50, 50, 71, 0.08);
+	}
+}

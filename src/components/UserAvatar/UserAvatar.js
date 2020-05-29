@@ -1,4 +1,5 @@
 import React from 'react';
+import './UserAvatar.scss';
 
 function UserAvatar() {
 	return (
@@ -8,3 +9,5 @@ function UserAvatar() {
 		</div>
 	)
 }
+
+export default UserAvatar;

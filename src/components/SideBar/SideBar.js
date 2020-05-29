@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import './SideBar.scss';
 
 
 function SideBar() {
@@ -7,25 +8,44 @@ function SideBar() {
 		<div className="sidebar">
 			<img className="sidebar__logo" src="" alt=""/>
 			<ul className="navbar">
-				<li className="navbar__item">
-		      <Link to={`/3d-hackathon/`}>
+	      <Link to={`/3d-hackathon/`}>
+					<li className="navbar__item">
 						<img className="navbar__icon" src="" alt=""/>
-						<p className="navbar__link">HOME</p>
-					</Link>
-				</li>
-				<li className="navbar__item">
-		      <Link to={`/3d-hackathon/`}>
+						<p className="navbar__link">Home</p>
+					</li>
+				</Link>
+	      <Link to={`/3d-hackathon/inventory`}>
+					<li className="navbar__item">
+							<img className="navbar__icon" src="" alt=""/>
+							<p className="navbar__link">Inventory</p>
+					</li>
+				</Link>
+		    <Link to={`/3d-hackathon/`}>				
+					<li className="navbar__item">
 						<img className="navbar__icon" src="" alt=""/>
-						<p className="navbar__link">INVENTORY</p>
-					</Link>
-				</li>
-				<li className="navbar__item">
-		      <Link to={`/3d-hackathon/`}>
+						<p className="navbar__link">Warehouse</p>
+					</li>
+				</Link>
+		    <Link to={`/3d-hackathon/`}>
+					<li className="navbar__item">
 						<img className="navbar__icon" src="" alt=""/>
-						<p className="navbar__link">WAREHOUSE</p>
-					</Link>
-				</li>				
+						<p className="navbar__link">Sales Report</p>					
+					</li>
+				</Link>
+				<Link to={`/3d-hackathon/`}>
+					<li className="navbar__item">		      
+							<img className="navbar__icon" src="" alt=""/>
+							<p className="navbar__link">Orders</p>					
+					</li>
+				</Link>
+				<Link to={`/3d-hackathon/`}>
+					<li className="navbar__item">
+		      	<img className="navbar__icon" src="" alt=""/>
+						<p className="navbar__link">Settings</p>					
+					</li>
+				</Link>
 			</ul>
+			<div className="sidebar__footer"></div>
 		</div>
 	)
 }
