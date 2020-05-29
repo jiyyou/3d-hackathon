@@ -7,7 +7,7 @@ function App() {
   return (
   	<BrowserRouter>
   		<Switch>
-  			<Route path="/" exact component={Main} />
+  			<Route path="/3d-hackathon/" exact component={Main} />
 {/*  			<Route path='/upload' exact component={Upload} />
   			<Route path="/:id" exact component={Main} /> */}
       </Switch>
