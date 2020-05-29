@@ -41,13 +41,13 @@ class Main extends React.Component {
 						<div className="maincontent__bcardcont">
 							<h2 className="maincontent__subtitle">Year to Date Sales vs Last Year</h2>
 							<div className="maincontent__bcard">
-								<img src={image5} alt=""/>
+								<img src={image6} alt=""/>
 							</div>
 						</div>
 						<div className="maincontent__bcardcont">
 							<h2 className="maincontent__subtitle">Current Inventory</h2>
 							<div className="maincontent__bcard">
-								<img src={image6} alt=""/>
+								<img src={image5} alt=""/>
 							</div>							
 						</div>
 					</div>

@@ -17,11 +17,11 @@ function Inventory() {
 					<form className="inventorysection__form">
 						<div>
 							<label for="product">Product Name</label>
-							<input className="productinput" name="product" type="text" />
+							<input className="productinput" name="product" type="text" placeholder="Search" />
 						</div>
 						<div>
 							<label for="sku">SKU</label>
-							<input className='skuinput' name="sku" type="text"/>
+							<input className='skuinput' name="sku" type="text" placeholder="00000000" />
 						</div>
 						<div>
 							<label for="manufacturer">Manufacturer</label>

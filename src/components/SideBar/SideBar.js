@@ -7,12 +7,15 @@ import clipboard from '../../assets/icons/24-file-clipboard-checked.svg';
 import filefolder from '../../assets/icons/24-file-folder-opened.svg';
 import shoppingbag from '../../assets/icons/24-shopping-bag.svg';
 import cross from '../../assets/icons/24-various-cross.svg';
+import logo from '../../assets/logo/group-10.png';
 
 
 function SideBar() {
 	return (
 		<div className="sidebar">
-			<img className="sidebar__logo" src="" alt=""/>
+			<div className="sidebar__logo">
+				<img className="sidebar__logopic" src={logo} />
+			</div>
 			<ul className="navbar">
 	      <Link to={`/3d-hackathon/`}>
 					<li className="navbar__item">
