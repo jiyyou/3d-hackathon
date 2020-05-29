@@ -12,11 +12,6 @@ function App() {
   			<Route path="/:id" exact component={Main} /> */}
       </Switch>
     </BrowserRouter>
-
-    <div className="App">
-      <h1>Testing</h1>
-      <h2>Testing2</h2>
-    </div>
   );
 }
 
