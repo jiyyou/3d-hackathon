@@ -2,6 +2,9 @@ import React from 'react';
 import './Inventory.scss';
 import SideBar from '../../components/SideBar/SideBar';
 import UserAvatar from '../../components/UserAvatar/UserAvatar';
+import chart from '../../assets/images/frame-13.svg';
+import button from '../../assets/images/24-basic-options.svg';
+
 
 function Inventory() {
 	return (
@@ -28,9 +31,11 @@ function Inventory() {
 							<label for="category">Category</label>
 							<input className='categoryinput' type="text"/>
 						</div>
-						<button type='submit'></button>
+						<button type='submit'><img src={button} /></button>
 					</form>
+
 				</div>
+				<img className='inventorytable' src={chart} alt=""/>
 			</div>
 		</section>
 	)
