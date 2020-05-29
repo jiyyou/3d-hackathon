@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/3d-hackathon/static/css/main.22ebe9a7.chunk.css",
-    "main.js": "/3d-hackathon/static/js/main.a72141d6.chunk.js",
-    "main.js.map": "/3d-hackathon/static/js/main.a72141d6.chunk.js.map",
+    "main.css": "/3d-hackathon/static/css/main.16ab9c18.chunk.css",
+    "main.js": "/3d-hackathon/static/js/main.c9d7f417.chunk.js",
+    "main.js.map": "/3d-hackathon/static/js/main.c9d7f417.chunk.js.map",
     "runtime-main.js": "/3d-hackathon/static/js/runtime-main.d36d8966.js",
     "runtime-main.js.map": "/3d-hackathon/static/js/runtime-main.d36d8966.js.map",
-    "static/js/2.b50338f7.chunk.js": "/3d-hackathon/static/js/2.b50338f7.chunk.js",
-    "static/js/2.b50338f7.chunk.js.map": "/3d-hackathon/static/js/2.b50338f7.chunk.js.map",
+    "static/js/2.1b61b724.chunk.js": "/3d-hackathon/static/js/2.1b61b724.chunk.js",
+    "static/js/2.1b61b724.chunk.js.map": "/3d-hackathon/static/js/2.1b61b724.chunk.js.map",
     "index.html": "/3d-hackathon/index.html",
-    "precache-manifest.c5b19aa11eea9ee7beeb09df2fe7aad0.js": "/3d-hackathon/precache-manifest.c5b19aa11eea9ee7beeb09df2fe7aad0.js",
+    "precache-manifest.03fe5392613bc70698647698f78be6a2.js": "/3d-hackathon/precache-manifest.03fe5392613bc70698647698f78be6a2.js",
     "service-worker.js": "/3d-hackathon/service-worker.js",
-    "static/css/main.22ebe9a7.chunk.css.map": "/3d-hackathon/static/css/main.22ebe9a7.chunk.css.map",
-    "static/js/2.b50338f7.chunk.js.LICENSE.txt": "/3d-hackathon/static/js/2.b50338f7.chunk.js.LICENSE.txt",
+    "static/css/main.16ab9c18.chunk.css.map": "/3d-hackathon/static/css/main.16ab9c18.chunk.css.map",
+    "static/js/2.1b61b724.chunk.js.LICENSE.txt": "/3d-hackathon/static/js/2.1b61b724.chunk.js.LICENSE.txt",
     "static/media/24-basic-home.svg": "/3d-hackathon/static/media/24-basic-home.35ef9bce.svg",
     "static/media/24-basic-options.svg": "/3d-hackathon/static/media/24-basic-options.14491e3e.svg",
     "static/media/24-basic-settings.svg": "/3d-hackathon/static/media/24-basic-settings.1427d1ec.svg",
@@ -25,12 +25,13 @@
     "static/media/frame-16.svg": "/3d-hackathon/static/media/frame-16.a3e16995.svg",
     "static/media/frame-17.svg": "/3d-hackathon/static/media/frame-17.b1a1e3aa.svg",
     "static/media/global-nps.svg": "/3d-hackathon/static/media/global-nps.3226dba5.svg",
+    "static/media/group-10.png": "/3d-hackathon/static/media/group-10.1f9f959e.png",
     "static/media/need-to-ship.svg": "/3d-hackathon/static/media/need-to-ship.c41ecc1f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d36d8966.js",
-    "static/js/2.b50338f7.chunk.js",
-    "static/css/main.22ebe9a7.chunk.css",
-    "static/js/main.a72141d6.chunk.js"
+    "static/js/2.1b61b724.chunk.js",
+    "static/css/main.16ab9c18.chunk.css",
+    "static/js/main.c9d7f417.chunk.js"
   ]
 }
